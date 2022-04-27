@@ -1,8 +1,8 @@
 ## Seyoon Park 👋
+- [Omti](https://www.omti.com/) Korea 대리
+- 정보처리기사
 - [명지대학교 컴퓨터공학과](http://jw4.mju.ac.kr/user/cs/index.action) 졸업
 - [보성고등학교](https://posung.sen.hs.kr/) 졸업
-- [Omti](https://www.omti.com/) Korea **대리**
-- 정보처리기사
 
 ## Tools
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-yellowgreen)
