@@ -31,6 +31,7 @@
 # Projects
 - RB9
 - ezWorks4
+- MyRB
 - Automate website publishing
 - Automate database compiling
 - [Tawk.to](https://www.tawk.to/) integration
