@@ -1,6 +1,6 @@
 # Seyoon Park 👋
 - [Omti](https://www.omti.com/) Korea 대리
-- 정보처리기사
+- 정보처리기사 (2018.11.16)
 - 모바일 앱 개발 경진대회 금상
 - TOPCIT 정기평가 경진대회 은상
 - [명지대학교 컴퓨터공학과](http://jw4.mju.ac.kr/user/cs/index.action) 졸업
