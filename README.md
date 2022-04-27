@@ -2,7 +2,9 @@
 - [Omti](https://www.omti.com/) Korea 대리
 - 정보처리기사
 - [명지대학교 컴퓨터공학과](http://jw4.mju.ac.kr/user/cs/index.action) 졸업
-- [보성고등학교](https://posung.sen.hs.kr/) 졸업  
+- [보성고등학교](https://posung.sen.hs.kr/) 졸업
+- [세륜중학교](https://seryun.sen.ms.kr/) 졸업
+- [거여초등학교](http://school.gyo6.net/gyschool) 졸업
 
   <br/>  
   
