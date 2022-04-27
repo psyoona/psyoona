@@ -3,7 +3,10 @@
 - [Omti](https://www.omti.com/) Korea **대리**
 - 정보처리기사
 
-
+## Tools
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-yellowgreen)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-yellowgreen)
+![SQL Server Management Studio](https://img.shields.io/badge/-SQL%20Server%20Management%20Stuidio-yellowgreen)
 
 
 
