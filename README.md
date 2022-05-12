@@ -47,5 +47,5 @@
 <br/>  
 
 # Contact
-- [Naver blog](https://blog.naver.com/psyoona)
+- [Tech blog](https://blog.naver.com/psyoona)
 - psyoona@naver.com
