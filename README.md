@@ -2,7 +2,7 @@
 - [Omti](https://www.omti.com/) Korea 근무 (2019.05 ~ )
 - 인스파이어 채널 근무 (2018.01 ~ 2019.04)
 - 정보처리기사 자격증 취득 (2018.11)
-- [명지대학교 컴퓨터공학과](http://jw4.mju.ac.kr/user/cs/index.action) 졸업 (2018.02)
+- [명지대학교 컴퓨터공학과](http://jw4.mju.ac.kr/user/cs/index.action) 졸업 (2011.03 ~ 2018.02)
 - [TOPCIT](https://www.topcit.or.kr/home.do)(소프트웨어 역량검증) 정기평가 경진대회 은상 (2017.09)
 - 모바일 앱 개발 경진대회 금상 (2017.02)
 - 육군 병장 만기전역 (2012.02 ~ 2013.11)
