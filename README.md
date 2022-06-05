@@ -48,6 +48,9 @@
 
 <br/>  
 
-# Contact
-- [Tech blog](https://blog.naver.com/psyoona)
-- psyoona@naver.com
+# Useful link
+- [Seyoon's tech blog](https://blog.naver.com/psyoona)
+- [JavaScript minifier](https://www.toptal.com/developers/javascript-minifier)
+- [Timezone Converter](https://www.timeanddate.com/worldclock/converter.html)
+- [Free image - Pixabay](https://pixabay.com/ko/)
+- [Free photo editor - PIXLR](https://pixlr.com/kr/)
