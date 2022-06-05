@@ -48,7 +48,7 @@
 
 <br/>  
 
-# Useful link
+# Useful links
 - [Seyoon's tech blog](https://blog.naver.com/psyoona)
 - [JavaScript minifier](https://www.toptal.com/developers/javascript-minifier)
 - [Timezone Converter](https://www.timeanddate.com/worldclock/converter.html)
