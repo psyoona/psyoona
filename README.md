@@ -1,5 +1,5 @@
 # Seyoon Park 👋
-- [현대자동차 그룹 GIT](https://www.gitauto.com/kor/main/main.aspx){:target="_blank" rel="noopener"} 근무 (2022.05 ~ )
+- [현대자동차 그룹 GIT](https://www.gitauto.com/kor/main/main.aspx){:target="\_blank"} 근무 (2022.05 ~ )
 - [Omti](https://www.omti.com/) Korea 근무 (2019.05 ~ 2022.05)
 - 인스파이어 채널 근무 (2018.01 ~ 2019.04)
 - 정보처리기사 자격증 취득 (2018.11)
