@@ -30,23 +30,27 @@
 <br/>  
 
 # Projects
-- [Encrypt/Decrypt AES256-CBC](http://yoonslab.com/Laboratory/aes256)
 - [Log Management](https://logmgmt.gitauto.com)
 - [RB9](https://rb9test.reporterbase.com/office)
 - [ezWorks4](https://ezw4dev01.omti.com/v400/Admin)
 - [MyRB](https://www.reporterbase.com/Default.aspx)
+- [Tawk.to](https://www.tawk.to/) integration
+- [IIS log viewer site](https://iislog.reporterbase.com/)
+- [Omti Korea](http://yoonslab.com/OMTIKorea/Index)
+
+<br/>  
+
+# Toy projects
+- [Encrypt/Decrypt AES256-CBC](http://yoonslab.com/Laboratory/aes256)
+- [Wedding Invitation](http://yoonslab.com/WeddingInvitationLetter/hyewonseyoon)
 - Automate website publishing
 - Automate database compiling
-- [Tawk.to](https://www.tawk.to/) integration
 - [Signature transparent](http://yoonslab.com/Laboratory/Signature)
-- [IIS log viewer site](https://iislog.reporterbase.com/)
 - [Tetris](http://yoonslab.com/Laboratory/Tetris)
 - [Lotto Analysis](http://yoonslab.com/Laboratory/LottoAnalysis)
 - [Base64 Encoding/Decoding](http://yoonslab.com/Laboratory/SecureAlgorithm)
 - [Sorting Algorithm](http://yoonslab.com/Laboratory/SortingAlgorithm)
-- [Omti Korea](http://yoonslab.com/OMTIKorea/Index)
 - [Change Path Useful](http://yoonslab.com/Laboratory/ChangePathUseful)
-- [Wedding Invitation](http://yoonslab.com/WeddingInvitationLetter/hyewonseyoon)
 
 <br/>  
 
