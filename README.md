@@ -30,7 +30,8 @@
 <br/>  
 
 # Projects
-- [Log Management](https://logmgmt.gitauto.com)
+- [KIA Dlogger](https://dlogger.kia.com/)
+- [GDSM Log Management](https://logmgmt.gitauto.com)
 - [RB9](https://rb9test.reporterbase.com/office)
 - [ezWorks4](https://ezw4dev01.omti.com/v400/Admin)
 - [MyRB](https://www.reporterbase.com/Default.aspx)
