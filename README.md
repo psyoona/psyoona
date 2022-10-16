@@ -30,6 +30,7 @@
 <br/>  
 
 # Projects
+- [Hyundai Digital PDI](https://digitalpdi.hmc.co.kr/Login.aspx)
 - [KIA Dlogger](https://dlogger.kia.com/)
 - [GDSM Log Management](https://logmgmt.gitauto.com)
 - [RB9](https://rb9test.reporterbase.com/office)
