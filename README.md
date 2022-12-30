@@ -62,3 +62,4 @@
 - [Timezone Converter](https://www.timeanddate.com/worldclock/converter.html)
 - [Free image - Pixabay](https://pixabay.com/ko/)
 - [Free photo editor - PIXLR](https://pixlr.com/kr/)
+- [Manifest validation](https://manifest-validator.appspot.com)
