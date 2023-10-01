@@ -30,7 +30,8 @@
 <br/>  
 
 # Projects
-- [Hyundai Digital PDI](https://digitalpdi.hmc.co.kr/Login.aspx)
+- [현대 내수 CPO](http://ict-stg-cuv-alb-pub-dpdi-an2-327675055.ap-northeast-2.elb.amazonaws.com/Login)
+- [현대 글로벌 PDI](https://digitalpdi.hmc.co.kr/Login.aspx)
 - [KIA Dlogger](https://dlogger.kia.com/)
 - [GDSM Log Management](https://logmgmt.gitauto.com)
 - [RB9](https://rb9test.reporterbase.com/office)
