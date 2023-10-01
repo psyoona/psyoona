@@ -32,8 +32,8 @@
 # Projects
 - [현대 내수 CPO](http://ict-stg-cuv-alb-pub-dpdi-an2-327675055.ap-northeast-2.elb.amazonaws.com/Login)
 - [현대 글로벌 PDI](https://digitalpdi.hmc.co.kr/Login.aspx)
-- [KIA Dlogger](https://dlogger.kia.com/)
-- [GDSM Log Management](https://logmgmt.gitauto.com)
+- [기아 디로거](https://dlogger.kia.com/)
+- [4세대 진단기 로그 수집](https://logmgmt.gitauto.com)
 - [RB9](https://rb9test.reporterbase.com/office)
 - [ezWorks4](https://ezw4dev01.omti.com/v400/Admin)
 - [MyRB](https://www.reporterbase.com/Default.aspx)
