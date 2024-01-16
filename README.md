@@ -30,7 +30,7 @@
 <br/>  
 
 # Projects
-- [현대 내수 CPO]
+- [현대 인증중고차](https://certified.hyundai.com/)
 - [4세대 진단기 라이선스 관리](https://gsup.gitauto.com/gdsn/certification_system/login)
 - [현대 글로벌 PDI](https://digitalpdi.hmc.co.kr/Login.aspx)
 - [기아 디로거](https://dlogger.kia.com/)
